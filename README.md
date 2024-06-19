@@ -1,5 +1,4 @@
-# Update
+# About Friend's Axis
 
-After the new update of React, you won't be able to use CRA. But you can easily create your applications with Vite before following the video tutorial.
-
+Real time chat application utilising FireBase Authentication(SDK) to ensure 2- step secure user authentication with leveraged Cloud Firestore’s efficiency and reliability for seamless data storage.
 [Create a React App with Vite](https://github.com/safak/youtube23/tree/react-mini)
